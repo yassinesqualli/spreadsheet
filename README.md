@@ -1145,8 +1145,9 @@ int main(int argc, char *argv[])
 # **The TEST and Results**
 
 
-![Uploading VC.gif…]()
 
+
+![VC](https://user-images.githubusercontent.com/93094605/146659663-992b62a9-6116-4c8a-a947-41f0b3812c21.gif)
 
 ![](CAP1.PNG)
 ![](CAP2.PNG)
