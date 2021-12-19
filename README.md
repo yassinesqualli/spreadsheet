@@ -19,6 +19,7 @@ Qt Designer is the Qt tool for designing and building graphical user interfaces 
 
 
 
+![DD](https://user-images.githubusercontent.com/93094605/146659541-8bd6ed4f-460f-497c-800e-31d0ee7cdfce.gif)
 
 ![](DD.GIF)
 
