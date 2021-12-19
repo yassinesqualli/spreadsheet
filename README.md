@@ -720,7 +720,7 @@ int main(int argc, char *argv[])
 ![TT](https://user-images.githubusercontent.com/93094605/146659590-8e70d56e-4db5-41eb-be3f-0fd1efa1e243.gif)
 
 
-For your first example, we will playing the Designer for a fast application creation. The application is from Qt Examples and is a simple text editor program built around QPlainText.
+For our first example, we will playing the Designer for a fast application creation. The application is from Qt Examples and is a simple text editor program built around QPlainText.
 
 ![](ee.PNG)
 
