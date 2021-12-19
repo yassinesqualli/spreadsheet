@@ -13,7 +13,9 @@ Qt Designer is the Qt tool for designing and building graphical user interfaces 
 
 *A main window provides a framework for building an application's user interface. Qt has QMainWindow and its related classes for main window management. QMainWindow has its own layout to which you can add QToolBars, QDockWidgets, a QMenuBar, and a QStatusBar. The layout has a center area that can be occupied by any kind of widget. You can see an image of the layout below.*
 
-![](1.PNG)
+![1](https://user-images.githubusercontent.com/93094605/146659627-15040b2c-87a4-48a7-835d-cdbabb89e219.png)
+
+
 
 > **Note: Creating a main window without a central widget is not supported. You must have a central widget even if it is just a placeholder.** 
 
