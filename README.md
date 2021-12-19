@@ -17,6 +17,9 @@ Qt Designer is the Qt tool for designing and building graphical user interfaces 
 
 > **Note: Creating a main window without a central widget is not supported. You must have a central widget even if it is just a placeholder.** 
 
+
+
+
 ![](DD.GIF)
 
  We will START by creating  a spreadsheet that contains the following components:
