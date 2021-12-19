@@ -19,9 +19,9 @@ Qt Designer is the Qt tool for designing and building graphical user interfaces 
 
 
 
+---
 ![DD](https://user-images.githubusercontent.com/93094605/146659541-8bd6ed4f-460f-497c-800e-31d0ee7cdfce.gif)
 
-![](DD.GIF)
 
  We will START by creating  a spreadsheet that contains the following components:
    *  *Menu Bar*
@@ -38,7 +38,7 @@ Qt Designer is the Qt tool for designing and building graphical user interfaces 
    - **Cell location (go to cell)**
    - **Find**
 
-![](CC.GIF)
+![CC](https://user-images.githubusercontent.com/93094605/146659568-57955c22-caf3-4950-a9c8-b557628f401d.gif)
 
 We will add the function for the goCell action. For that, we need to create a Dialog for the user to select a cell.
 
@@ -110,8 +110,8 @@ GoDialog::~GoDialog()
 
 ```
 
+![FF](https://user-images.githubusercontent.com/93094605/146659571-1e79e277-2266-44f4-bc17-0e6ac9a54c62.gif)
 
-![](FF.GIF)
 
 We will move now for the Find dialog. This dialog prompts the user for a input and seek a cell that contains the entered text.
 
@@ -708,12 +708,15 @@ int main(int argc, char *argv[])
 
 # **The TEST and Results**
 
-![](F.GIF)
+![F](https://user-images.githubusercontent.com/93094605/146659587-491649e3-c7ae-4d93-b978-36c5db5bac3e.gif)
+
+
 
 ---
 ---
 
-![](TT.GIF)
+![TT](https://user-images.githubusercontent.com/93094605/146659590-8e70d56e-4db5-41eb-be3f-0fd1efa1e243.gif)
+
 
 For your first example, we will playing the Designer for a fast application creation. The application is from Qt Examples and is a simple text editor program built around QPlainText.
 
@@ -1139,7 +1142,10 @@ int main(int argc, char *argv[])
 
 # **The TEST and Results**
 
-![](VC.GIF)
+
+![Uploading VC.gif…]()
+
+
 ![](CAP1.PNG)
 ![](CAP2.PNG)
 ![](CAP3.PNG)
